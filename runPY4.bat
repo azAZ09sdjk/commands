@@ -5,4 +5,4 @@ cd GIT_REPO
 cd python
 cd python
 cls
-python ex1.py
+python ex4.py
